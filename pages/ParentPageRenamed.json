@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "ParentPage1",
-    "slug": "parentpage1",
+    "name": "ParentPageRenamed",
+    "slug": "parentpagerenamed",
     "layouts": [
       {
         "viewMode": false,
@@ -31,7 +31,7 @@
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
-        "id": "ParentPage1",
+        "id": "ParentPageRenamed",
         "deleted": false,
         "policies": [],
         "userPermissions": []

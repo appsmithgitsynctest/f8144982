@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "myFun2",
-    "fullyQualifiedName": "ParentJsAction1.myFun2",
+    "fullyQualifiedName": "ChildJsAction1.myFun2",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -13,8 +13,8 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
-    "collectionId": "ParentPage1_ParentJsAction1",
+    "pageId": "ChildPage1",
+    "collectionId": "ChildPage1_ChildJsAction1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -40,7 +40,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "ParentPage1_myFun2",
+  "id": "ChildPage1_myFun2",
   "deleted": false,
-  "gitSyncId": "622ac2eb0581d74d16629c51_622ac2fe0581d74d16629c59"
+  "gitSyncId": "622ac3050581d74d16629c5f_622ac31c0581d74d16629c6e"
 }
